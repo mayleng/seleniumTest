@@ -1,0 +1,16 @@
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\bonree\Desktop\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+D:\May\webapi\netframework\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
